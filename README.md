@@ -7,18 +7,13 @@
 ![GitHub](https://img.shields.io/github/license/exxuslee/qrFireShield)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Exxuslee/qrFireShield)
 
-**Соло майнер биткоина**
+**Сервер QR-карточек пожарных щитов**
 
-На nodeJS. 
+На фреймворке React. 
 
 ## Starting
-To view, just run: `node index`
-Or : `node cluster`
+To build: `npm run build`
+To build: `npm run start`
 
 ## Features
-1. Разбор работы майнера
-2. Поддержка многопоточности
-3. bitcoin CLI
-
-## More info
-[privatekeys.pw](https://privatekeys.pw/puzzles/bitcoin-puzzle-tx)
+1. Сервер сайта
